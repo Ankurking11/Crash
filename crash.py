@@ -13,6 +13,7 @@ This will crash you browser and can potientilly crash your system.
 Press Ctrl+C to exit and end the script
 If you still insist, press enter.
 Good luck""")
+    input("Press enter to continue...")
 
 # Function to open every link on a web page
     def open_links(url):
